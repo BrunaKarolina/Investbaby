@@ -1,0 +1,53 @@
+.navbar-brand{color: #70AC88;
+  font-family: var(--bs-font-sans-serif);
+  padding-bottom: 0.3125rem;
+    margin-right: 18px;
+    font-size: 25px
+}
+
+.button-login{
+	float: right;
+	margin-right: 75px;
+	font-size: 18px;
+  border-color: #70AC88;
+  background-color: #70AC88;
+  color: #fff;
+  cursor: pointer 
+}
+
+.nav-link {
+	color: #70AC88;
+  font-family: var(--bs-font-sans-serif);
+  margin: 0;
+  font-size: 18px;
+}
+
+#myVideo {
+  position: fixed;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+.myBtn {
+  font-size: 18px;
+  border-color: #70AC88;
+  background-color: #70AC88;
+  color: #fff;
+  cursor: pointer;
+}
+
+.myBtn:hover {
+  background: #ddd;
+  color: black;
+}
+
+
